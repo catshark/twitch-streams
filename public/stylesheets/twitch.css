@@ -1,0 +1,16 @@
+.col-md-4 img {
+    text-align: center;
+    float: left;
+}
+
+.col-md-4 .display-name {
+    text-align: center;
+    float: left;
+    width: 20%;
+}
+
+.col-md-4 .status {
+    text-align: center;
+    float: left;
+    width: 70%;
+}
